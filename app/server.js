@@ -2,7 +2,7 @@ const http = require('http');
 
 const server = http.createServer((req,res) => {
 res.writeHead(200, {'Content-Type':'text/plain'});
-res.end("This CI/CD is working automatically--BY Richard Joel");
+res.end("This CI/CD is working automatically--BY Joel");
 });
 
 server.listen(3000);
