@@ -65,7 +65,7 @@ const server = http.createServer((req, res) => {
             <p>End-to-End CI/CD Pipeline on AWS</p>
 
             <h2>Architecture</h2>
-            <p>GitHub | GitHub Actions | Docker | ECR | EKS | LoadBalancer | Prometheus | Grafana</p>
+            <p>GitHub | GitHub Actions | Docker | ECR | EKS | LoadBalancer | Prometheus | Grafana </p>
 
             <h2>Key Features</h2>
             <ul>
